@@ -1,0 +1,1130 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fi",
+				"finalIndex"
+			],
+			[
+				"d",
+				"DisablePageButton"
+			],
+			[
+				"in",
+				"initialIndex"
+			],
+			[
+				"pag",
+				"pageInitialIndex"
+			],
+			[
+				"pa",
+				"pageFinalIndex"
+			],
+			[
+				"fil",
+				"filteredVideosList"
+			],
+			[
+				"val",
+				"valoresFiltro"
+			],
+			[
+				"video",
+				"videosList"
+			],
+			[
+				"cha",
+				"character2"
+			],
+			[
+				"ran",
+				"randomVideos"
+			],
+			[
+				"vide",
+				"videosList"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"compo",
+				"componentDidMount"
+			],
+			[
+				"list",
+				"listaAutores"
+			],
+			[
+				"p",
+				"publicaErros"
+			],
+			[
+				"pub",
+				"PubSub"
+			],
+			[
+				"at",
+				"atualiza-lista-autores"
+			],
+			[
+				"pu",
+				"PubSub"
+			],
+			[
+				"no",
+				"novaLista"
+			],
+			[
+				"ex",
+				"extends"
+			],
+			[
+				"S",
+				"SubmitCustomizado"
+			],
+			[
+				"nego",
+				"negociacaoController"
+			],
+			[
+				"N",
+				"NegociacaoController"
+			],
+			[
+				"neg",
+				"NegociacaoController"
+			],
+			[
+				"Ne",
+				"NegociacaoService"
+			],
+			[
+				"Nego",
+				"NegociacoesView"
+			],
+			[
+				"Neg",
+				"NegociacoesView"
+			],
+			[
+				"Me",
+				"MensagemView"
+			],
+			[
+				"Neog",
+				"NegociacaoDAO"
+			],
+			[
+				"dig",
+				"digCallback"
+			],
+			[
+				"negoc",
+				"negociações"
+			],
+			[
+				"negoci",
+				"negociacoes"
+			],
+			[
+				"_li",
+				"_limpaFormulario"
+			],
+			[
+				"Negociacao",
+				"NegociacaoService"
+			],
+			[
+				"n",
+				"negociacoes"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"ne",
+				"negociacao"
+			],
+			[
+				"get",
+				"getConnection"
+			],
+			[
+				"co",
+				"connection"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"on",
+				"onsuccess"
+			],
+			[
+				"con",
+				"connection"
+			],
+			[
+				"open",
+				"openRequest"
+			],
+			[
+				"array",
+				"arrayAchatado"
+			],
+			[
+				"t",
+				"texto"
+			],
+			[
+				"m",
+				"_mensagem"
+			],
+			[
+				"re",
+				"Reflect"
+			],
+			[
+				"ge",
+				"getDate"
+			],
+			[
+				"td",
+				"tdVolume"
+			],
+			[
+				"Q",
+				"querySelector"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"selec",
+				"selectize"
+			],
+			[
+				"blo",
+				"block\tdisplay"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"lin",
+				"linhas"
+			],
+			[
+				"O",
+				"objId"
+			],
+			[
+				"obj",
+				"objId"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"temp",
+				"tempoInicial"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"nova",
+				"novaFrase"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"remov",
+				"removePlacar"
+			],
+			[
+				"nu",
+				"numCaracteres"
+			],
+			[
+				"bo",
+				"botao-remover"
+			],
+			[
+				"contador",
+				"contador-palavras"
+			],
+			[
+				"fin",
+				"finalizaJogo"
+			],
+			[
+				"campo",
+				"campo-errado"
+			],
+			[
+				"va",
+				"validaCampo"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"inci",
+				"inicializaCronometro"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inpu",
+				"inputCep"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"res",
+				"responseText"
+			],
+			[
+				"pacien",
+				"paciente"
+			],
+			[
+				"pacient",
+				"pacienteTr"
+			],
+			[
+				"valida",
+				"validaPaciente"
+			],
+			[
+				"paci",
+				"pacientes"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"GOR",
+				"gordura"
+			],
+			[
+				"erro",
+				"erroLi"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"mens",
+				"mensagemErro"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"pac",
+				"paciente"
+			],
+			[
+				"mon",
+				"montaTd"
+			],
+			[
+				"nome",
+				"nomeTd"
+			],
+			[
+				"pacie",
+				"pacienteTr"
+			],
+			[
+				"input",
+				"inputFrase"
+			],
+			[
+				"qu",
+				"querySelector"
+			],
+			[
+				"que",
+				"querySelectorAll"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"im",
+				"imcP1"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"te",
+				"text-indent\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"WID",
+				"width\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"de",
+				"desenhaBandeiraAlemanha"
+			],
+			[
+				"desenha",
+				"desenhaCirculo"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"imc",
+				"imcNovo"
+			],
+			[
+				"i",
+				"imcIsadora"
+			],
+			[
+				"ida",
+				"idadeIsadora"
+			],
+			[
+				"idade",
+				"idadeVictor"
+			],
+			[
+				"dife",
+				"diferencaIdade"
+			],
+			[
+				"I",
+				"idadeIsadora"
+			],
+			[
+				"idad",
+				"idadesport"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.js",
+			"settings":
+			{
+				"buffer_size": 454,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<script src=\"https://apis.google.com/js/api.js\"></script>\n<script>\n  /**\n   * Sample JavaScript code for youtube.search.list\n   * See instructions for running APIs Explorer code samples locally:\n   * https://developers.google.com/explorer-help/guides/code_samples#javascript\n   */\n\n  function authenticate() {\n    return gapi.auth2.getAuthInstance()\n        .signIn({scope: \"https://www.googleapis.com/auth/youtube.force-ssl\"})\n        .then(function() { console.log(\"Sign-in successful\"); },;\n              function(err) { console.error(\"Error signing in\", err); });\n  }\n  function loadClient() {\n    gapi.client.setApiKey(\"YOUR_API_KEY\");\n    return gapi.client.load(\"https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest\")\n        .then(function() { console.log(\"GAPI client loaded for API\"); },\n              function(err) { console.error(\"Error loading GAPI client for API\", err); });\n  }\n  // Make sure the client is loaded and sign-in is complete before calling this method.\n  function execute() {\n    return gapi.client.youtube.search.list({\n      \"part\": \"snippet\",\n      \"channelId\": \"UCPGuorlvarThSlwJpyTHOmQ\",\n      \"q\": \"SFV|Street + Fighter + V|SF5|Street + Fighter + 5\",\n      \"type\": \"video\",\n      \"videoEmbeddable\": \"true\"\n    })\n        .then(function(response) {\n                // Handle the results here (response.result has the parsed body).\n                console.log(\"Response\", response);\n              },\n              function(err) { console.error(\"Execute error\", err); });\n  }\n  gapi.load(\"client:auth2\", function() {\n    gapi.auth2.init({client_id: \"YOUR_CLIENT_ID\"});\n  });\n</script>\n<button onclick=\"authenticate().then(loadClient)\">authorize and load</button>\n<button onclick=\"execute()\">execute</button>\n",
+			"file": "src/apiSearchExemplo.html",
+			"file_size": 1787,
+			"file_write_time": 132083016911224383,
+			"settings":
+			{
+				"buffer_size": 1747,
+				"line_ending": "Windows",
+				"name": "<script src=\"https://apis.google.com/js/api.js\"></"
+			}
+		},
+		{
+			"contents": "import React from 'react';\nimport './App.css';\nimport SelectCustomizado from './componentes/SelectCustomizado';\nimport PubSub from 'pubsub-js';\nimport './css/side-bar.css';\nimport ChangeView from './ChangeView';\nimport VideosFilter from './VideosFilter';\nimport PageChangeButton from './componentes/PageChangeButton';\n\n\n\n\nclass Menu extends React.Component {\n\n  constructor(props) {\n    super(props);\n    this.characterList = [\"Ryu\", \"Ken\", \"Sakura\", \"Abigail\"];\n    this.playerList = [\"Daigo\", \"Punk\", \"ProblemX\", \"Tokido\"];\n    this.seasonList = [1, 2, 3, 4];\n    this.eventList = [\"EVO\",\"Treta Championship\",\"Defend the North\", \"EVO Japan\"];\n    this.filtro = {character1: '', character2: '', player: '', season: '', event: ''};\n    this.state = {disabledPlusButton: false, disabledMinusButton: true};\n\n    PubSub.subscribe(\"plus\", (topic,boolean) => this.setState({disabledPlusButton: boolean}));\n    PubSub.subscribe(\"minus\", (topic,boolean) => this.setState({disabledMinusButton: boolean}));\n\n  }\n\n  mudaValorSelecionado(event){\n    \n    this.filtro[event.target.id] = event.target.value.toLowerCase(); \n\n    PubSub.publish(\"mudanca-campo\", this.filtro);\n     \n  }\n\n  render() {\n    \n    return (\n\n      <div className=\"sidenav\">\n              <SelectCustomizado id=\"character1\" name=\"character1\" options={this.characterList} label=\"Character\" onChange={this.mudaValorSelecionado.bind(this)}/>\n              <SelectCustomizado id=\"character2\" name=\"character2\" options={this.characterList} label=\"Character\" onChange={this.mudaValorSelecionado.bind(this)}/>\n              <SelectCustomizado id=\"player\" name=\"player\" options={this.playerList} label=\"Player\" onChange={this.mudaValorSelecionado.bind(this)}/>\n              <SelectCustomizado id=\"season\" name=\"season\" options={this.seasonList} label=\"Season\" onChange={this.mudaValorSelecionado.bind(this)}/>\n              <SelectCustomizado id=\"event\" name=\"event\" options={this.eventList} label=\"Event\" onChange={this.mudaValorSelecionado.bind(this)}/>\n              <PageChangeButton label=\">>\" operator=\"plus\" disabled={this.state.disabledPlusButton}/>\n              <PageChangeButton label=\"<<\" operator=\"minus\" disabled={this.state.disabledMinusButton}/>\n      </div>\n    );\n  }\n\n}\n\nclass Main extends React.Component{\n\n  constructor(props){\n\n    super(props);\n    this.videosList = [\n\n        {\n          id: \"qFTYgFVpJhw\",\n          titulo: \"NL (Cammy) vs Daigo Umehara (Ryu) - Capcom Cup 2018 Main Stream - CPT2018\",\n          data: \"Dec 15, 2018\"\n        }, \n        {\n          id: \"tjKU93q8Srs\",\n          titulo: \"Team iXA stormKUBO (Abigail) VS Fujii (Ryu) - Pools - Taipei Major 2019 - SFV - CPT2019\",\n          data: \"Jun 8, 2019\"\n        },        {\n          id: \"L-6YclkkuNo\",\n          titulo: \"CYG BST Daigo (Guile) vs TGS Ceroblast (Ken) - NCR 2019 - Day 1 Pools - CPT 2019\",\n          data: \"Mar 30, 2019\"\n        },        {\n          id: \"FRy8wsb6ncc\",\n          titulo: \"CYG BST XP Chris T (Ken) vs Echo Fox Momochi (Ken) - SCR 2018 Top 8 - CPT 2018\",\n          data: \"Sep 17, 2018\"\n        },        {\n          id: \"1hKX95EB-qA\",\n          titulo: \"RZR Xian (Ibuki) VS DNG Nauman (Sakura) - L.Top 48 - Taipei Major 2019 - SFV - CPT2019\",\n          data: \"Jun 8, 2019\"\n        },        {\n          id: \"vCxo_k5mbUk\",\n          titulo: \"Flaquito (Sakura) vs ZJZ (Menat) - Capcom Cup 2018 LCQ Top 8 - CPT2018\",\n          data: \"Dec 14, 2018\"\n        } ,        {\n          id: \"Q1QQ7yVmARQ\",\n          titulo: \"Flaquito (Sakura) vs ZJZ (Menat) - Capcom Cup 2018 LCQ Top 8 - CPT2018\",\n          data: \"Dec 14, 2018\"\n        } \n    ];\n    this.selectedVideos = [];\n    this.pageInitialIndex = {n: -7};\n    this.pageFinalIndex = {n: 0};\n\n    this.state = {\n\n      screenVideos: []\n\n    };\n\n\n    PubSub.subscribe(\"mudanca-campo\", (topic, filter) => {\n\n      this.pageInitialIndex.n = -7;\n      this.pageFinalIndex.n = 0;\n\n      this.selectedVideos = VideosFilter(filter, this.videosList);\n\n      this.setState({screenVideos: ChangeView(\"plus\", this.selectedVideos, this.pageInitialIndex, this.pageFinalIndex)});\n\n    });\n\n    PubSub.subscribe(\"page-change\", (topic, operator) =>{\n\n      this.setState({screenVideos: ChangeView(operator, this.selectedVideos, this.pageInitialIndex, this.pageFinalIndex)});\n\n    });\n\n  }\n\n\n\n  componentDidMount(){\n\n    this.selectedVideos = this.videosList;\n    this.setState({screenVideos: ChangeView(\"plus\", this.selectedVideos, this.pageInitialIndex, this.pageFinalIndex)});\n\n  }\n\n\n\n  render(){\n\n    return (\n\n      <div className= \"flex-container\">\n        {\n\n          this.state.screenVideos.map(video => {\n            return( \n              <div key = {video.id}>\n                <iframe src={`https://www.youtube.com/embed/${video.id}`}\n                    frameBorder='0'\n                    allow='autoplay; encrypted-media'\n                    allowFullScreen\n                    title='video'\n                    height=\"475\"\n                    width=\"500\"\n                 />\n              </div>\n            );\n          })\n\n        }\n\n      </div>\n\n    )\n\n  }\n\n}\n\n\nclass App extends React.Component{\n\n  render() {\n\n    return (\n\n      <div className=\"content\" id=\"content\">\n        <Menu/>\n        <Main/>\n      </div>\n\n    )\n  }\n}\n\nexport default App;",
+			"file": "src/App.js",
+			"file_size": 5271,
+			"file_write_time": 132089348720743177,
+			"settings":
+			{
+				"buffer_size": 5276,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/DisablePageButton.js",
+			"settings":
+			{
+				"buffer_size": 379,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/ChangeView.js",
+			"settings":
+			{
+				"buffer_size": 649,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/componentes/PageChangeButton.js",
+			"settings":
+			{
+				"buffer_size": 546,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/VideosFilter.js",
+			"settings":
+			{
+				"buffer_size": 443,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/componentes/SelectCustomizado.js",
+			"settings":
+			{
+				"buffer_size": 650,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"Command Palette: Package Control Install Package -> babel",
+			"Command Palette:",
+			"command pallet",
+			"comman pallet",
+			"command",
+			"Package Control Install Package",
+			"Package Control Install Package -> babel",
+			"a",
+			"install",
+			"find",
+			"babel-sublime",
+			"babel",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/programacao/SFReplayer/sfr",
+		"/F/programacao/SFReplayer/sfr/src",
+		"/F/programacao/SFReplayer/sfr/src/componentes",
+		"/F/programacao/SFReplayer/sfr/src/css"
+	],
+	"file_history":
+	[
+		"/F/programacao/SFReplayer/sfr/src/css/side-bar.css",
+		"/F/programacao/SFReplayer/sfr/src/VideosFilter.js",
+		"/F/programacao/SFReplayer/sfr/src/componentes/ChangePage.js",
+		"/C/Users/Padilha/AppData/Local/Temp/Rar$DRa6972.34289/index.html",
+		"/F/programacao/SFReplayer/sfr/src/App.test.js",
+		"/F/programacao/react/cdc-admin/src/componentes/SubmitCustomizado.js",
+		"/F/programacao/react/cdc-admin/src/TratadorErros.js",
+		"/F/programacao/react/cdc-admin/src/App.js",
+		"/F/Programas - HD/Autoclicker/poezin/FLASKS.ahk",
+		"/F/Programas - HD/Autoclicker/poezin/FLASKS JADE.ahk",
+		"/F/Programas - HD/Autoclicker/poezin/FLASKS STIBNITE.ahk",
+		"/F/Programas - HD/Autoclicker/poezin/FLASKS CORUSCATING.ahk",
+		"/F/Programas - HD/Autoclicker/poezin/FLASKS - Copy.ahk",
+		"/F/Programas - HD/Autoclicker/poezin/F12 STARTA - F12 PAUSA FLASKS.ahk",
+		"/F/programacao/react/cdc-admin/node_modules/react/umd/react.development.js",
+		"/F/Programas - HD/Autoclicker/poezin/Run_TradeMacro - Copy.ahk",
+		"/C/Users/Padilha/AppData/Local/Temp/Rar$DRa4368.1539/index.html",
+		"/F/programacao/react/cdc-admin/node_modules/react-scripts/bin/react-scripts.js",
+		"/C/Users/Padilha/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/package.json",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app-es6/lib/datex.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app/controllers/NegociacaoController.js.map",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app/views/View.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app-es6/views/View.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/.babelrc",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app-es6/lib/as/as.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/index.html",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app/lib/datex.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app/controllers/NegociacaoController.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app/services/NegociacaoService.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app/dao/NegociacaoDAO.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app/models/ListaNegociacoes.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app/helpers/Bind.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app/services/ProxyFactory.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app/services/HttpService.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/aprendendo_indexeddb.html",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app/services/ConnectionFactory.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app/models/Mensagem.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app/views/MensagemView.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app/views/NegociacoesView.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app/models/Negociacao.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app/helpers/DateHelper.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/lib/index.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/dissecando-uma-promise.html",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/post.html",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/app/views/conta.js",
+		"/F/programacao/introducao-javascript/js/form.js",
+		"/F/programacao/javascript-avancado/javascript-avancado-i-aula1/aluraframe/client/js/index.js",
+		"/F/programacao/react/node_modules/.bin/cdc-admin/node_modules/react-scripts/bin/react-scripts.js",
+		"/F/programacao/jQuery/servidor/package.json",
+		"/F/programacao/jQuery/servidor/server.js",
+		"/F/programacao/react/node_modules/.bin/cdc-admin/node_modules/terser/dist/bundle.js",
+		"/F/programacao/react/node_modules/.bin/cdc-admin/node_modules/vm-browserify/example/run/bundle.js",
+		"/F/programacao/react/node_modules/.bin/cdc-admin/node_modules/ajv/scripts/bundle.js",
+		"/F/programacao/react/node_modules/.bin/cdc-admin/node_modules/crypto-browserify/example/bundle.js",
+		"/F/programacao/react/node_modules/.bin/cdc-admin/src/App.js",
+		"/F/programacao/jQuery/public/js/frase.js",
+		"/F/programacao/jQuery/public/js/placar.js",
+		"/F/programacao/jQuery/public/js/main.js",
+		"/F/programacao/jQuery/public/css/estilos.css",
+		"/F/programacao/jQuery/public/principal.html",
+		"/F/programacao/jQuery/public/js/slider.js",
+		"/F/programacao/jQuery/public/index.html",
+		"/F/programacao/jQuery/public/css/index.css",
+		"/F/programacao/jQuery/servidor/app/api/placar.js",
+		"/F/programacao/jQuery/servidor/config/database.js",
+		"/F/programacao/jQuery/servidor/node_modules/nedb/index.js",
+		"/F/programacao/jQuery/servidor/config/express.js",
+		"/F/programacao/jQuery/servidor/app/api/frases.js",
+		"/F/programacao/jQuery/servidor/app/routes/placar.js",
+		"/F/programacao/jQuery/servidor/app/routes/frases.js",
+		"/F/PROGRAMAÇÃO/jQuery/public/js/frase.js",
+		"/F/PROGRAMAÇÃO/jQuery/public/js/placar.js",
+		"/F/PROGRAMAÇÃO/jQuery/public/css/estilos.css",
+		"/F/PROGRAMAÇÃO/jQuery/public/js/main.js",
+		"/F/PROGRAMAÇÃO/jQuery/servidor/server.js",
+		"/F/PROGRAMAÇÃO/jQuery/public/principal.html",
+		"/F/PROGRAMAÇÃO/introducao-javascript/ajax CEP.html",
+		"/F/PROGRAMAÇÃO/Replay Finder/index.html",
+		"/F/PROGRAMAÇÃO/Replay Finder/css/styles.css",
+		"/F/PROGRAMAÇÃO/Replay Finder/js/scripts.js",
+		"/F/PROGRAMAÇÃO/jQuery/public/css/libs/materialize.min.css",
+		"/F/PROGRAMAÇÃO/jQuery/public/js/jquery.js",
+		"/F/PROGRAMAÇÃO/jQuery/public/css/libs/google-fonts.css",
+		"/F/PROGRAMAÇÃO/introducao-javascript/js/remover-paciente.js",
+		"/F/PROGRAMAÇÃO/introducao-javascript/js/buscar-paciente.js",
+		"/F/PROGRAMAÇÃO/introducao-javascript/js/filtrar-paciente.js",
+		"/F/PROGRAMAÇÃO/introducao-javascript/js/form.js",
+		"/F/PROGRAMAÇÃO/introducao-javascript/index.html",
+		"/F/PROGRAMAÇÃO/Git/Repositorios/curso-git/index.html",
+		"/C/Users/Padilha/AppData/Local/Temp/Rar$DRa7668.34617/ajax-com-js-puro-master/index.html",
+		"/F/programação/Git/repositorios/curso-git/.git/COMMIT_EDITMSG",
+		"/F/PROGRAMAÇÃO/introducao-javascript/js/principal.js",
+		"/F/PROGRAMAÇÃO/introducao-javascript/css/index.css",
+		"/C/Users/Padilha/AppData/Local/Temp/is-HN0TP.tmp/editor-test.txt",
+		"/F/PROGRAMAÇÃO/introducao-javascript/convidados.html",
+		"/F/PROGRAMAÇÃO/introducao-javascript/exercicio copiando valores aula 4.html",
+		"/F/PROGRAMAÇÃO/introducao-javascript/alanzin.html",
+		"/F/PROGRAMAÇÃO/introducao-javascript/js/trabalho-alan.js",
+		"/F/PROGRAMAÇÃO/logica/adivinhacao++.html",
+		"/F/PROGRAMAÇÃO/htmlecss2/portfolio.html",
+		"/F/PROGRAMAÇÃO/htmlecss2/bio.html",
+		"/F/PROGRAMAÇÃO/htmlecss2/blog.html",
+		"/F/PROGRAMAÇÃO/htmlecss2/css/reset.css",
+		"/F/PROGRAMAÇÃO/htmlecss2/css/bio.css",
+		"/F/PROGRAMAÇÃO/htmlecss2/css/site.css",
+		"/F/PROGRAMAÇÃO/htmlecss2/css/blog.css",
+		"/F/PROGRAMAÇÃO/htmlecss2/css/index.css",
+		"/F/PROGRAMAÇÃO/htmlecss2/index.html",
+		"/F/PROGRAMAÇÃO/HTML5 e CSS3/reset.css",
+		"/F/PROGRAMAÇÃO/htmlecss/css/sitebom.css",
+		"/F/PROGRAMAÇÃO/htmlecss/portfolio.html",
+		"/F/PROGRAMAÇÃO/htmlecss/bio.html",
+		"/F/PROGRAMAÇÃO/HTML5 e CSS3/sitebom.css",
+		"/F/PROGRAMAÇÃO/HTML5 e CSS3/blog.html",
+		"/F/PROGRAMAÇÃO/HTML5 e CSS3/bio.html",
+		"/F/PROGRAMAÇÃO/HTML5 e CSS3/site.css",
+		"/F/PROGRAMAÇÃO/HTML5 e CSS3/CursoHTML-aula10/bio.html",
+		"/C/Users/Padilha/Desktop/logica/bolinhateclado.html",
+		"/C/Users/Padilha/Desktop/logica/trocabandeira.html",
+		"/C/Users/Padilha/Desktop/logica/bolinha.html",
+		"/C/Users/Padilha/Desktop/logica/adivinhacao++.html",
+		"/C/Users/Padilha/Desktop/logica/paleta.html",
+		"/C/Users/Padilha/Desktop/logica/alvo.html",
+		"/C/Users/Padilha/Desktop/logica/canvas.html",
+		"/C/Users/Padilha/Desktop/logica/futebol.html",
+		"/C/Users/Padilha/Desktop/logica/esquadro+.html",
+		"/C/Users/Padilha/Desktop/logica/flor.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"475",
+			"10%",
+			"501",
+			"510",
+			"550",
+			"450",
+			"400",
+			"href",
+			"class",
+			"style"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"className"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								453,
+								453
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/apiSearchExemplo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<script src=\"https://apis.google.com/js/api.js\"></",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2239,
+								2239
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/DisablePageButton.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/ChangeView.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/componentes/PageChangeButton.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211,
+								211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/VideosFilter.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 443,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								325,
+								325
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/componentes/SelectCustomizado.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sfr.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 309.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,32 @@
+
+id: qFTYgFVpJhw
+titulo: NL (Cammy) vs Daigo Umehara (Ryu) - Capcom Cup 2018 Main Stream - CPT2018
+data: Dec 15, 2018
+
+id: tjKU93q8Srs
+titulo: Team iXA stormKUBO (Abigail) VS Fujii (Ryu) - Pools - Taipei Major 2019 - SFV - CPT2019
+data: Jun 8, 2019
+
+id: L-6YclkkuNo
+titulo: CYG BST Daigo (Guile) vs TGS Ceroblast (Ken) - NCR 2019 - Day 1 Pools - CPT 2019
+data: Mar 30, 2019
+
+id: FRy8wsb6ncc
+titulo: CYG BST XP Chris T (Ken) vs Echo Fox Momochi (Ken) - SCR 2018 Top 8 - CPT 2018
+data: Sep 17, 2018
+
+id: 1hKX95EB-qA
+titulo: RZR Xian (Ibuki) VS DNG Nauman (Sakura) - L.Top 48 - Taipei Major 2019 - SFV - CPT2019
+data: Jun 8, 2019
+
+id: vCxo_k5mbUk
+titulo: Flaquito (Sakura) vs ZJZ (Menat) - Capcom Cup 2018 LCQ Top 8 - CPT2018
+data: Dec 14, 2018
+
+id: RkrcJoYaF5w
+titulo: BlarrLad (Abigail) vs ROHTO Z! Tokido (Akuma) - Final Round 2019 - Day 1 Pools - CPT 2019
+data: Mar 15, 2019
+
+id: UoO6k4IjWYw
+titulo: Blarr-Lad (Abigail) vs CYG BST Fuudo (R.Mika) - SCR 2018 Day 1 Pools - CPT 2018
+data: Sep 14, 2018
