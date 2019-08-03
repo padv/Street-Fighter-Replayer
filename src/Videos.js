@@ -8,37 +8,37 @@ export default class Videos extends React.Component{
   constructor(props){
 
     super(props);
-    this.videosList = [
+    this.videosList = [  // MOCKUP JSON. WILL IMPLEMENT BACKEND LATER USING YOUTUBE SEARCH API.
 
         {
           id: "qFTYgFVpJhw",
-          titulo: "NL (Cammy) vs Daigo Umehara (Ryu) - Capcom Cup 2018 Main Stream - CPT2018",
-          data: "Dec 15, 2018"
+          title: "NL (Cammy) vs Daigo Umehara (Ryu) - Capcom Cup 2018 Main Stream - CPT2018",
+          date: "Dec 15, 2018"
         }, 
         {
           id: "tjKU93q8Srs",
-          titulo: "Team iXA stormKUBO (Abigail) VS Fujii (Ryu) - Pools - Taipei Major 2019 - SFV - CPT2019",
-          data: "Jun 8, 2019"
+          title: "Team iXA stormKUBO (Abigail) VS Fujii (Ryu) - Pools - Taipei Major 2019 - SFV - CPT2019",
+          date: "Jun 8, 2019"
         },        {
           id: "L-6YclkkuNo",
-          titulo: "CYG BST Daigo (Guile) vs TGS Ceroblast (Ken) - NCR 2019 - Day 1 Pools - CPT 2019",
-          data: "Mar 30, 2019"
+          title: "CYG BST Daigo (Guile) vs TGS Ceroblast (Ken) - NCR 2019 - Day 1 Pools - CPT 2019",
+          date: "Mar 30, 2019"
         },        {
           id: "FRy8wsb6ncc",
-          titulo: "CYG BST XP Chris T (Ken) vs Echo Fox Momochi (Ken) - SCR 2018 Top 8 - CPT 2018",
-          data: "Sep 17, 2018"
+          title: "CYG BST XP Chris T (Ken) vs Echo Fox Momochi (Ken) - SCR 2018 Top 8 - CPT 2018",
+          date: "Sep 17, 2018"
         },        {
           id: "1hKX95EB-qA",
-          titulo: "RZR Xian (Ibuki) VS DNG Nauman (Sakura) - L.Top 48 - Taipei Major 2019 - SFV - CPT2019",
-          data: "Jun 8, 2019"
+          title: "RZR Xian (Ibuki) VS DNG Nauman (Sakura) - L.Top 48 - Taipei Major 2019 - SFV - CPT2019",
+          date: "Jun 8, 2019"
         },        {
           id: "vCxo_k5mbUk",
-          titulo: "Flaquito (Sakura) vs ZJZ (Menat) - Capcom Cup 2018 LCQ Top 8 - CPT2018",
-          data: "Dec 14, 2018"
+          title: "Flaquito (Sakura) vs ZJZ (Menat) - Capcom Cup 2018 LCQ Top 8 - CPT2018",
+          date: "Dec 14, 2018"
         } ,        {
           id: "Q1QQ7yVmARQ",
-          titulo: "Flaquito (Sakura) vs ZJZ (Menat) - Capcom Cup 2018 LCQ Top 8 - CPT2018",
-          data: "Dec 14, 2018"
+          title: "Flaquito (Sakura) vs ZJZ (Menat) - Capcom Cup 2018 LCQ Top 8 - CPT2018",
+          date: "Dec 14, 2018"
         } 
     ];
     this.selectedVideos = [];
@@ -52,7 +52,7 @@ export default class Videos extends React.Component{
     };
 
 
-    PubSub.subscribe("mudanca-campo", (topic, filter) => {
+    PubSub.subscribe("filter-change", (topic, filter) => {
 
       this.pageInitialIndex.n = -7;
       this.pageFinalIndex.n = 0;

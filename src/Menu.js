@@ -11,21 +11,21 @@ export default class Menu extends React.Component {
     super(props);
     this.characterList = ["Ryu", "Ken", "Sakura", "Abigail"];
     this.playerList = ["Daigo", "Punk", "ProblemX", "Tokido"];
-    this.seasonList = [1, 2, 3, 4];
     this.eventList = ["EVO","Treta Championship","Defend the North", "EVO Japan"];
-    this.filtro = {character1: '', character2: '', player: '', season: '', event: ''};
+    this.titleFilter = {character1: '', character2: '', player: '', event: ''};
     this.state = {disabledPlusButton: false, disabledMinusButton: true};
+
 
     PubSub.subscribe("plus", (topic,boolean) => this.setState({disabledPlusButton: boolean}));
     PubSub.subscribe("minus", (topic,boolean) => this.setState({disabledMinusButton: boolean}));
 
   }
 
-  mudaValorSelecionado(event){
+  changeSelectedFilter(event){
     
-    this.filtro[event.target.id] = event.target.value.toLowerCase(); 
+    this.titleFilter[event.target.id] = event.target.value.toLowerCase(); 
 
-    PubSub.publish("mudanca-campo", this.filtro);
+    PubSub.publish("filter-change", this.titleFilter);
      
   }
 
@@ -34,11 +34,10 @@ export default class Menu extends React.Component {
     return (
 
       <div className="sidenav">
-              <SelectCustomizado id="character1" name="character1" options={this.characterList} label="Character" onChange={this.mudaValorSelecionado.bind(this)}/>
-              <SelectCustomizado id="character2" name="character2" options={this.characterList} label="Character" onChange={this.mudaValorSelecionado.bind(this)}/>
-              <SelectCustomizado id="player" name="player" options={this.playerList} label="Player" onChange={this.mudaValorSelecionado.bind(this)}/>
-              <SelectCustomizado id="season" name="season" options={this.seasonList} label="Season" onChange={this.mudaValorSelecionado.bind(this)}/>
-              <SelectCustomizado id="event" name="event" options={this.eventList} label="Event" onChange={this.mudaValorSelecionado.bind(this)}/>
+              <SelectCustomizado id="character1" name="character1" options={this.characterList} label="Character" onChange={this.changeSelectedFilter.bind(this)}/>
+              <SelectCustomizado id="character2" name="character2" options={this.characterList} label="Character" onChange={this.changeSelectedFilter.bind(this)}/>
+              <SelectCustomizado id="player" name="player" options={this.playerList} label="Player" onChange={this.changeSelectedFilter.bind(this)}/>
+              <SelectCustomizado id="event" name="event" options={this.eventList} label="Event" onChange={this.changeSelectedFilter.bind(this)}/>
               <PageChangeButton label=">>" operator="plus" disabled={this.state.disabledPlusButton}/>
               <PageChangeButton label="<<" operator="minus" disabled={this.state.disabledMinusButton}/>
       </div>

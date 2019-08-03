@@ -5,7 +5,7 @@ export default function VideosFilter(filter, videosList){
 
       let filteringVideosList = videosList.map(video => { 
 
-        if(filterValues.every(currentFilter => video.titulo.toLowerCase().includes(currentFilter))) return video
+        if(filterValues.every(currentFilter => video.title.toLowerCase().includes(currentFilter))) return video
         else return null
 
       });

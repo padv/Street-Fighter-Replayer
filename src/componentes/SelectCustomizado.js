@@ -8,7 +8,7 @@ export default class SelectCustomizado extends React.Component{
 
 			<div>
     			<label htmlFor={this.props.id}>{this.props.label}</label> 
-   				<select id={this.props.id} type={this.props.type} name={this.props.name}  onChange={this.props.onChange}>
+   				<select id={this.props.id} type={this.props.type} name={this.props.name} onChange={this.props.onChange}>
    					<option value="">Select {this.props.label}</option>
    					{
    					   this.props.options.map((data, index) => {
